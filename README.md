@@ -18,4 +18,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Refrensi
 
-<p>Thanks to <a href="https://daengweb.id/crud-laravel-8-dan-inertiajs"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="DaengWeb">Daeng web</a></p>
+<p>Thanks to <a href="https://daengweb.id/crud-laravel-8-dan-inertiajs">Daeng web</a></p>
